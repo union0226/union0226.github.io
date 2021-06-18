@@ -4,7 +4,7 @@ title: "프로그래밍 관련 동영상"
 toc: true
 toc_sticky: true
 toc_label: "동영상 목차"
-categories: “프로그래밍”
+categories: 프로그래밍 강의
 ---
 
 ### 01. 개발자라면 무조건 알고리즘 공부를 해야할까? (by 노마드코더)
